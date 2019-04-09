@@ -1,0 +1,4 @@
+convert binary to q learning loss
+choose which error function to use in init
+for q learning, use euclidean distance
+in q learning, the error for each action should be computed outside of update and pass into update
